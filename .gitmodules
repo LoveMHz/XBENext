@@ -7,3 +7,6 @@
 [submodule "Externals/glib"]
 	path = Externals/glib
 	url = https://github.com/GNOME/glib
+[submodule "Source/Core"]
+	path = Source/Core
+	url = https://github.com/LoveMHz/qemu
