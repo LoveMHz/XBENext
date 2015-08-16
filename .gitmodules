@@ -1,3 +1,6 @@
 [submodule "Externals/SDL"]
 	path = Externals/SDL
 	url = https://github.com/spurious/SDL-mirror
+[submodule "Externals/freetype2"]
+	path = Externals/freetype2
+	url = git://git.savannah.nongnu.org/freetype/freetype2.git
