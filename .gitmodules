@@ -4,3 +4,6 @@
 [submodule "Externals/freetype2"]
 	path = Externals/freetype2
 	url = git://git.savannah.nongnu.org/freetype/freetype2.git
+[submodule "Externals/glib"]
+	path = Externals/glib
+	url = https://github.com/GNOME/glib
