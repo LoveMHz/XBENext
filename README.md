@@ -4,7 +4,11 @@ Experimental emulator for the original Microsoft Xbox video game system.
 
 ## Installation
 
-TODO: Describe the installation process
+Downloading Source Code:
+
+*XBENext takes advantage of GIT submodules. Use the command below to download the source and related libraries*
+
+**git clone --recursive https://github.com/LoveMHz/XBENext.git**
 
 ## Usage
 
