@@ -7,3 +7,6 @@
 [submodule "Externals/glib"]
 	path = Externals/glib
 	url = https://github.com/GNOME/glib
+[submodule "Externals/unicorn"]
+	path = Externals/unicorn
+	url = https://github.com/unicorn-engine/unicorn
