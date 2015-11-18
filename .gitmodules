@@ -10,3 +10,6 @@
 [submodule "Externals/unicorn"]
 	path = Externals/unicorn
 	url = https://github.com/unicorn-engine/unicorn
+[submodule "Externals/glew"]
+	path = Externals/glew
+	url = https://github.com/nigels-com/glew
