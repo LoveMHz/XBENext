@@ -1,4 +1,5 @@
 # XBENext
+![Image of XBENext](https://raw.githubusercontent.com/LoveMHz/XBENext/gh-pages/images/header_xbenext.png)
 
 Experimental emulator for the original Microsoft Xbox video game system.
 
